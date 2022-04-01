@@ -99,7 +99,7 @@ export default function Home() {
                 <div>
                   <FontAwesomeIcon icon={faStar} className={styles.lIcons1} />
                   <FontAwesomeIcon icon={faStar} className={styles.lIcons1} />
-                  <FontAwesomeIcon icon={faStar} className={styles.lIcons1} />
+                  <FontAwesomeIcon icon={faStar} className={styles.lIcons} />
                   <FontAwesomeIcon icon={faStar} className={styles.lIcons} />
                   <FontAwesomeIcon icon={faStar} className={styles.lIcons} />
                 </div>
@@ -150,7 +150,7 @@ export default function Home() {
                 <div className={styles.rateRect}>
                   <div className={styles.rect1}></div>
                   <div className={styles.rect1}></div>
-                  <div className={styles.rect}></div>
+                  <div className={styles.rect1}></div>
                   <div className={styles.rect}></div>
                   <div className={styles.rect}></div>
                   
@@ -160,8 +160,8 @@ export default function Home() {
                 <div>Confidence</div>
                 <div className={styles.rateRect}>
                   <div className={styles.rect1}></div>
-                  <div className={styles.rect}></div>
-                  <div className={styles.rect}></div>
+                  <div className={styles.rect1}></div>
+                  <div className={styles.rect1}></div>
                   <div className={styles.rect}></div>
                   <div className={styles.rect}></div>
                   
@@ -217,7 +217,7 @@ export default function Home() {
               <p>Profile</p>
             </div>
             <div className={styles.desc}>
-              Нямжавын Наранчимэг нь МУИС-ХШУИС Програм хангамжийн 3-р курсийн оюутан. Веб програмчлалын хичээлээ хийж байна.
+              Нямжавын Наранчимэг нь МУИС-ХШУИС Програм хангамжийн 3-р курсийн оюутан. 
             </div>
           </div>
           <div className={styles.education}>
