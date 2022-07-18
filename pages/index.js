@@ -36,10 +36,10 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.personal}>
           <div className={styles.photo}>
-            {/* <img
+            <img
               src="https://i.pinimg.com/originals/3e/5b/a9/3e5ba9cf12565cbf201e2447753b9401.png"
               className={styles.img}
-            /> */}
+            /> 
           </div>
           <div className={styles.contact}>
             <div className={styles.title}>
