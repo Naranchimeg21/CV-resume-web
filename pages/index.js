@@ -37,7 +37,7 @@ export default function Home() {
         <div className={styles.personal}>
           <div className={styles.photo}>
             <img
-              src="https://i.pinimg.com/originals/3e/5b/a9/3e5ba9cf12565cbf201e2447753b9401.png"
+              src="https://scontent.fuln4-3.fna.fbcdn.net/v/t39.30808-6/291534439_127413473313794_629215825668836596_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6C61K_hoHG4AX-oosQL&_nc_ht=scontent.fuln4-3.fna&oh=00_AT_CcoQRS1bxUHDnIZ2Y6HiVu2V_qfbbsBeLcyjJVYbhLQ&oe=62DA2C3C"
               className={styles.img}
             /> 
           </div>
