@@ -130,7 +130,7 @@ export default function Home() {
                   <div className={styles.rect1}></div>
                   <div className={styles.rect1}></div>
                   <div className={styles.rect1}></div>
-                  <div className={styles.rect1}></div>
+                  <div className={styles.rect}></div>
                   <div className={styles.rect}></div>
                 </div>
               </div>
@@ -160,8 +160,8 @@ export default function Home() {
                 <div>Confidence</div>
                 <div className={styles.rateRect}>
                   <div className={styles.rect1}></div>
-                  <div className={styles.rect}></div>
-                  <div className={styles.rect}></div>
+                  <div className={styles.rect1}></div>
+                  <div className={styles.rect1}></div>
                   <div className={styles.rect}></div>
                   <div className={styles.rect}></div>
                   
@@ -217,7 +217,7 @@ export default function Home() {
               <p>Profile</p>
             </div>
             <div className={styles.desc}>
-              Нямжавын Наранчимэг нь МУИС-ХШУИС Програм хангамжийн 3-р курсийн оюутан. Веб програмчлалын хичээлээ хийж байна.
+              Нямжавын Наранчимэг нь МУИС-ХШУИС Програм хангамжийн төгсөх курсийн оюутан. 2022 оноос хойш 3 газар мэргэжлээрээ дадлага болон үндсэнээр ажилласан. Энэ хугацаандаа ReactJS, NextJS, VueJS, NodeJS, ExpressJS, Graphql, Prisma зэрэг технологиуд дээр ажиллаж үзсэн.
             </div>
           </div>
           <div className={styles.education}>
@@ -229,7 +229,7 @@ export default function Home() {
               <div className={styles.educationDate}>
                 <p>2008-2016</p>
                 <p>2016-2019</p>
-                <p>2019-YYYY</p>
+                <p>2019-2023</p>
               </div>
               <div className={styles.educationDetails}>
                 <p>4-р дунд сургууль</p>
@@ -248,8 +248,8 @@ export default function Home() {
             </div>
             <div className={styles.content}>
               <div className={styles.skillName}>
-                <p>XXXXXX</p>
-                <p>XXXXXXXX</p>
+                <p>Javascript</p>
+                <p>Java</p>
                 <p>XXXXXXX</p>
               </div>
               <div className={styles.skilldiag}>
